@@ -1,0 +1,2 @@
+c:\users\rootx\documents\visual studio 2015\Projects\Baron Tools\Baron Tools\bin\Debug\Baron Tools.exe.config
+C:\Users\Rootx\Documents\LRFDecoder\Baron Tools\Baron Tools\bin\Debug\Baron Tools.exe.config
